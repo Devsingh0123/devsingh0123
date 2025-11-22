@@ -1,8 +1,16 @@
 
 # 👋 Hi, I'm Dev Singh
 
-💻 **Full Stack Developer** | 🌐 **React Enthusiast** | 🚀 **Building Amazing Web Experiences**
+🚀 **Passionate Frontend Developer** | 💻 **Full Stack Developer** | 🌐 **React Enthusiast** | 🚀 **Building Amazing Web Experiences**
 
+# About Me
+
+- 🔭 **Currently working on:** Advanced React & Full-Stack Projects
+- 🌱 **Currently learning:** Next.js, TypeScript, and Advanced APIs
+- 🏆 **Achievements:** Geckathon Winner & 150+ LeetCode Solutions
+- 💬 **Ask me about:** React, Redux, JavaScript, REST APIs
+- 📫 **Reach me:** **iamdevsingh123@gmail.com** | **+91-6200481457**
+- ⚡ **Fun fact:** I debug faster when coffee is involved 😊
 ---
 
 ## 🛠️ Tech Stack
@@ -20,7 +28,6 @@
 
 **Tools:**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
