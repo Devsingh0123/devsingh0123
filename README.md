@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Dev Singh
 
 💻 **Full Stack Developer** | 🌐 **React Enthusiast** | 🚀 **Building Amazing Web Experiences**
 
