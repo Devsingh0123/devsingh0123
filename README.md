@@ -37,30 +37,30 @@
 ### 📱 Instagram App
 **JavaScript** • Updated Aug 13, 2024
 - Full-stack Instagram clone with modern features
-- **[Live Demo](#)** • **[Source Code](#)**
+- **[Live Demo](#)** • **[Source Code](https://github.com/Devsingh0123/Instagram-app)**
 
 ### ⚛️ Count Using React
 **React • JavaScript** • Updated Sep 21, 2023
 - Interactive counter application with React hooks
-- **[Live Demo](#)** • **[Source Code](#)**
+- **[Live Demo](#)** • **[Source Code](https://github.com/Devsingh0123/count-using-react)**
 
 ### 🌐 Website Using React Components
 **React • HTML** • Updated Sep 20, 2023
 - Modular website built with reusable React components
-- **[Live Demo](#)** • **[Source Code](#)**
+- **[Live Demo](#)** • **[Source Code](https://github.com/Devsingh0123/website-using-react-component)**
 
 ### ✅ Todo Project with Auth
 **JavaScript • React** • Updated Sep 1, 2023
 - Todo application with user authentication
-- **[Live Demo](#)** • **[Source Code](#)**
+- **[Live Demo](#)** • **[Source Code](https://github.com/Devsingh0123/Todo-project-with-signup-login)**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsingh0123&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsingh0123&layout=compact&theme=radical)
 
 ---
 
@@ -72,12 +72,12 @@
 
 ---
 
-## 📈 Recent Activity
+<!-- ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-⭐ **Fun Fact:** I love turning coffee into code!
+<!--⭐ **Fun Fact:** I love turning coffee into code!
 <!--
 **Devsingh0123/devsingh0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
