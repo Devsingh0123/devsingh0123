@@ -1,8 +1,14 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Dev Singh
 
 💻 **Full Stack Developer** | 🌐 **React Enthusiast** | 🚀 **Building Amazing Web Experiences**
-
+🔭 I’m currently working on React & Full-Stack Projects
+🌱 I’m learning Next.js, TypeScript, and Advanced APIs
+🏆 Geekathon Winner & 150+ LeetCode Solutions
+💬 Ask me about React, Redux, JavaScript, APIs
+📫 How to reach me: bantikumarsingh91@gmail.com
+📱 Phone: +91-9113169140
+⚡ Fun fact: I debug faster when coffee is involved ☕
 ---
 
 ## 🛠️ Tech Stack
